@@ -7,7 +7,7 @@
 
 #ifndef STACK_H_
 #define STACK_H_
-#include "Element.h"
+#include "List.h"
 class Stack
 {
 	private:
